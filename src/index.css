@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  background-color: aliceblue;
+}
+
+.clockContainer {
+  backdrop-filter: blur(5px);
+  width: 100vw;
+  padding: 10px 0;
+}
+
+.clock {
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 3px 3px 5px rgb(78, 78, 78);
+  text-align: center;
+}
